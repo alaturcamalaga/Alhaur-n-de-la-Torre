@@ -609,9 +609,9 @@ opacity:0;
   #kebab{font-size:210%}
   #pizza{font-size:210%}
   #ensa1{font-size:210%}
-  #camperos{font-size:210%}
+  #camperos{font-size:180%}
   #gondo {
-      font-size: 198%;
+      font-size: 170%;
   }
   #bebidas{font-size:210%}
   .completo3 {
@@ -641,7 +641,7 @@ opacity:0;
     background-color: purple;
     border-color: gold;
     border-radius: 10%;
-    left: 47%;
+    left: 41%;
     top: 10%;
     margin-top: -10%;
     margin-left: 15%;
@@ -651,7 +651,7 @@ opacity:0;
 .special4 {
     color: purple;
     font-weight: bolder;
-    font-size: 156%;
+    font-size: 143%;
     float: left;
     font-family: monospace;
     margin-right: 70px;
@@ -693,7 +693,7 @@ opacity:0;
 .specialensa {
     color: purple;
     font-weight: bolder;
-    font-size: 135%;
+    font-size: 120%;
     float: left;
     font-family: monospace;
     margin-right: 70px;
@@ -740,10 +740,10 @@ opacity:0;
     margin-bottom: 0;
     color: purple;
     font-weight: bolder;
-    font-size: 143%;
+    font-size: 140%;
     float: left;
     font-family: monospace;
-}
+
 #bebidastext {
     line-height: 216%;
     left: 4%;
