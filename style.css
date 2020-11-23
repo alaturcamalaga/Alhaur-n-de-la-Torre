@@ -786,31 +786,13 @@ opacity:0;
   #bebidas{font-size:210%}
 
   .special4 {
-    color: purple;
-    font-weight: bolder;
-    font-size: 183%;
-    float: left;
-    font-family: monospace;
-    margin-right: 70px;
-}
-.tacopricees {
-    display: inline-block;
-    position: relative;
-    color: gold;
-    font-weight: bolder;
-    font-size: 120%;
-    font-family: monospace;
-    border-style: groove;
-    background-color: purple;
-    border-color: gold;
-    border-radius: 10%;
-    left: 50%;
-    top: 10%;
-    margin-top: -10%;
-    margin-left: 15%;
-    padding-left: 5px;
-    padding-right: 5px;
-}
+      color: purple;
+      font-weight: bolder;
+      font-size: 163%;
+      float: left;
+      font-family: monospace;
+      margin-right: 70px;
+  }
 
 .pizzaprice {
     display: inline-block;
@@ -859,7 +841,7 @@ opacity:0;
 .specialensa {
     color: purple;
     font-weight: bolder;
-    font-size: 161%;
+    font-size: 141%;
     float: left;
     font-family: monospace;
     margin-right: 70px;
@@ -938,6 +920,35 @@ opacity:0;
     font-family: monospace;
     border-style: hidden;
 
+}
+.tacopricees {
+    display: inline-block;
+    position: relative;
+    color: gold;
+    font-weight: bolder;
+    font-size: 110%;
+    font-family: monospace;
+    border-style: groove;
+    background-color: purple;
+    border-color: gold;
+    border-radius: 10%;
+    left: 50%;
+    top: 13%;
+    margin-top: -10%;
+    margin-left: 15%;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.drinks {
+    text-align-last: center;
+    word-spacing: 1px;
+    margin-top: 0px;
+    margin-bottom: 0;
+    color: purple;
+    font-weight: bolder;
+    font-size: 160%;
+    float: left;
+    font-family: monospace;
 }
 
 
