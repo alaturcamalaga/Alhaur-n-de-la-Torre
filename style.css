@@ -481,7 +481,7 @@ opacity:0;
 
     }
     @keyframes whatsapp {
-     from {left: 43%
+     from {left: 43%;
        opacity: 0;
        transform: translate3d(0, 90%,0);bottom:37%;
      }
@@ -497,7 +497,7 @@ opacity:0;
     }
 
   @keyframes whatsapp3 {
-      0%,100% { opacity: 1;width:22%;bottom:18%left: 43%}
+      0%,100% { opacity: 1;width:22%;bottom:18%;left: 43%}
       50% { opacity: 1;width:18%;left: 43%;bottom:18%}
     }
     #whatsapptaco {transition: width 0.5s, height 1s, transform 1s;
