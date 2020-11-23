@@ -21,9 +21,7 @@ body{margin:0px;padding:0px;border:0px;}
 
 
           #btnleft{ position: absolute;width: 10%;z-index: 4;bottom:20%;display:none;left:10%;opacity:100%}
-          #whatsapptaco{bottom:2%;position: absolute;width: 13%;z-index: 5;bottom:25px;display:none;left:40%;opacity:100%}
-          #whatsapp2{bottom:2%;position: absolute;width: 13%;z-index: 5;bottom:25px;display:none;left:44%;opacity:100%}
-#whatsapp{bottom:2%;position: absolute;width: 18%;z-index: 5;bottom:25px;display:inline-block;left:44%;opacity:100%}
+#whatsapp{bottom:2%;position: absolute;width: 18%;z-index: 5;display:inline-block;left:44%;opacity:100%}
 #maps{position: absolute;width: 10%;z-index: 4;bottom:17%;display:inline-block;left:45%;opacity:100%}
 .white{background-color:white;width:102.5%;position: absolute;bottom:5%;z-index: 0;display: inline-block;left:-1.5%;height:10%;opacity: 100%}
 #tomato {top:24%;    position: absolute;
@@ -472,7 +470,7 @@ opacity:0;
        }
     }
 #whatsapp {transition: width 0.5s, height 1s, transform 1s;
-      animation-name: whatsapp,whatsapp2,whatsapp3,whatsapp4;
+      animation-name: whatsapp,whatsapp2,whatsapp3;
       animation-duration: 0.5s,1s,2s;
       animation-fill-mode: forwards;
       animation-delay: 1.5s,2.9s,3.5s;
@@ -740,9 +738,10 @@ opacity:0;
     margin-bottom: 0;
     color: purple;
     font-weight: bolder;
-    font-size: 140%;
+    font-size: 130%;
     float: left;
     font-family: monospace;
+}
 
 #bebidastext {
     line-height: 216%;
