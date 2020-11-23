@@ -486,11 +486,11 @@ opacity:0;
      to {
        bottom:37%;
        opacity: 1;
-       transform:none;left: 43%
+       transform:none;left: 43%;
      }
   }
   @keyframes whatsapp2 {
-      0%,{ transform:rotate(0deg);bottom:18%; width: 15%;left: 43%}
+      0%,{ transform:rotate(0deg); width: 15%;left: 43%}
       100% { transform: rotate(360deg);bottom:18%;width:22%;left: 43%}
     }
 
@@ -738,7 +738,7 @@ opacity:0;
     margin-bottom: 0;
     color: purple;
     font-weight: bolder;
-    font-size: 130%;
+    font-size: 130%!important;
     float: left;
     font-family: monospace;
 }
